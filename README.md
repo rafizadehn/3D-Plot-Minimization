@@ -1,4 +1,3 @@
-# PHSX 815: Week 9
 ## 3D Plot Minimization
 
 This repository includes a script that gives the minimum of a 3D function and plots it on a mesh grid. 
@@ -7,7 +6,6 @@ This is the same code as homework 9 as I wrote that code for a 3D function alrea
 
 ---
 
-### Homework 10:
 
 ### Running the Code
 The construction plots are made by the `Neyman_Construction.py` python file. This file requires python3 to run, and includes the following packages listed at the top of the script:
